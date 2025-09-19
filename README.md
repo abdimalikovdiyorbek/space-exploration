@@ -16,3 +16,4 @@ Another project made for Scrimba's HTML & CSS course
 - I don't have any partnerships with SpaceX
 - This is purely fan-made website
 - Everything said on the website is fake, just for decoration
+- I recommend to view the site in minimized window (box-shaped)
